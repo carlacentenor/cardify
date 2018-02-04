@@ -1,0 +1,28 @@
+figcaption {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 10em;
+  height: inherit;
+  width: inherit;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+.opacity {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+img {
+  width: inherit;
+  height: inherit;
+}
+
+figure {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  margin: 1em;
+}
